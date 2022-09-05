@@ -1,4 +1,4 @@
-package main
+package main:v$BUILD_NUMBER
 
 import (
 	"errors"
